@@ -1,0 +1,4 @@
+git commit -m "Push Check" 
+git push origin main  로 푸쉬 체크 해줘
+
+check_for_sungjae 로 import py as pg 추가해줘
