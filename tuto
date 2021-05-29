@@ -5,3 +5,7 @@
 브랜치 확인 Jihoon_branch라는 브랜치를 생성후 push_check_jihoon파일 삭제, branch_push_check_jihoon파일 생성
 애드 커밋 후 Jihoon_branch에 푸쉬
 check_for_sungjae 파일 수정 후 Jihoon_branch에 푸쉬
+
+내 브랜치에서는 import pygame으로 파이게임 임포트
+성재의 import pygame as pg 가 더 편리하다고 판단
+성재의 브랜치로 통합하기로 함
